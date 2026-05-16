@@ -1,7 +1,7 @@
 set datafile separator ","
 
-set terminal pdf
-set output "grafico_k.pdf"
+set terminal png
+set output "grafico_k.png"
 
 set xlabel "k"
 set ylabel "P(k)"
