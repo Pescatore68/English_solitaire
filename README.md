@@ -1,4 +1,4 @@
-English Peg Solitaire – Monte Carlo Simulator
+# English Peg Solitaire – Monte Carlo Simulator
 
 Given the rules of English Peg Solitaire, this program simulates a player
 making uniformly random valid moves and estimates the following statistics:
@@ -10,6 +10,8 @@ making uniformly random valid moves and estimates the following statistics:
   e) Expected number of pegs in the terminal configuration
 
 # Graphs 
-
 [N_distribution](pdf/grafico_N.pdf)  
 [k_distribution](plots/grafico_k.pdf)
+
+# Psuedocode, formula and results
+
