@@ -15,7 +15,8 @@ making uniformly random valid moves and estimates the following statistics:
 
 # Graphs 
 [N_distribution](pdf/grafico_N.pdf)  
-[k_distribution](plots/grafico_k.pdf)
+[k_distribution](pdf/grafico_k.pdf)
 
 # Psuedocode, formula and results
+[English_solitaire](pdf/Solitario_Inglese.pdf)
 
