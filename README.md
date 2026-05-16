@@ -9,3 +9,7 @@ making uniformly random valid moves and estimates the following statistics:
   d) Expected game duration (average number of moves)
   e) Expected number of pegs in the terminal configuration
 
+# Graphs 
+
+[N_distribution](pdf/grafico_N.pdf)  
+[k_distribution](plots/grafico_k.pdf)
