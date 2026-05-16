@@ -1,6 +1,9 @@
 # IDE Jetbrains
 .idea/
 
+# macOS
+.DS_Store
+
 # Prerequisites
 *.d
 
